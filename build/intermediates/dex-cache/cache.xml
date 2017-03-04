@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/boixel/AndroidStudioProjects/ProjetAMIO/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/boixel/AndroidStudioProjects/ProjetAMIO/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_e1b721eefebc45d27056b8e664ef2a283da0bf07/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/boixel/AndroidStudioProjects/projet_android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/boixel/AndroidStudioProjects/projet_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_8836d8d076fcd8d550bf256873ebdfe892cd24c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/boixel/AndroidStudioProjects/projet_android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/boixel/AndroidStudioProjects/projet_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_05249d00c5ebecc8730547d4ac28924afd2edc61/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/boixel/AndroidStudioProjects/ProjetAMIO/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/boixel/AndroidStudioProjects/ProjetAMIO/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_fcc78aeb0dff1d5d5b1be9881330e062ac4f7684/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/boixel/AndroidStudioProjects/projet_android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/boixel/AndroidStudioProjects/projet_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_1623f7b6694446fa25fefcd9d47221218223508c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/boixel/AndroidStudioProjects/projet_android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/boixel/AndroidStudioProjects/projet_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_e67e9cdc95b1f7f2b79668b4b09a74f6188ca762/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/boixel/AndroidStudioProjects/ProjetAMIO/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/boixel/AndroidStudioProjects/ProjetAMIO/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_d9eef82994c38710e16bcf10ebeef29fce60c247/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/boixel/AndroidStudioProjects/ProjetAMIO/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/boixel/AndroidStudioProjects/ProjetAMIO/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_a5729adcce0ca8e460a71082e6785262e3a9cf19/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/boixel/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/boixel/AndroidStudioProjects/ProjetAMIO/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_456585ee92702040bbe00f8972b0a032be62cd88/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/boixel/AndroidStudioProjects/ProjetAMIO/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/boixel/AndroidStudioProjects/ProjetAMIO/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_51f4687c417b34dd875f94d0914c1300d612c3c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/boixel/AndroidStudioProjects/ProjetAMIO/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/boixel/AndroidStudioProjects/ProjetAMIO/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_8a1a7b7408d9e884f3b09d17d1d599dc31649847/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/boixel/AndroidStudioProjects/ProjetAMIO/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="949aa849cf5acdaa1475a9f57c3418b853943940">
+        <dex dex="/Users/boixel/AndroidStudioProjects/ProjetAMIO/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_65b6f5092cd0dc73d0201c6898c2985ab0da78cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/boixel/AndroidStudioProjects/projet_android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/boixel/AndroidStudioProjects/projet_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_2ffd020a0bae2e9eaf59f5de7d49f56f4f7b72f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/boixel/AndroidStudioProjects/ProjetAMIO/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/boixel/AndroidStudioProjects/ProjetAMIO/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_4071abd98189ffa9a3e49e7b6a1a6fb89b4383e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/boixel/AndroidStudioProjects/ProjetAMIO/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/boixel/AndroidStudioProjects/ProjetAMIO/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_38404f6b53699218918d6a42c7f10c8c8d4f9849/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/boixel/AndroidStudioProjects/projet_android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150f7959c19cc2b8ef941e0ecc94796027d255ba">
+        <dex dex="/Users/boixel/AndroidStudioProjects/projet_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5a904ecfe77f44f29c1e9d0aad5210f8a9f6f080/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/boixel/AndroidStudioProjects/projet_android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/boixel/AndroidStudioProjects/projet_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_ea71ffac09e56348a75b9d452e39338d16aac9d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/boixel/AndroidStudioProjects/projet_android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/boixel/AndroidStudioProjects/projet_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_e41f230b4cda257d4a5edf965c261adbd929a12a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/boixel/AndroidStudioProjects/projet_android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/boixel/AndroidStudioProjects/projet_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_2dbdeae72cd4806ef70841d2603e2b0b9173f9fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/boixel/AndroidStudioProjects/ProjetAMIO/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/boixel/AndroidStudioProjects/ProjetAMIO/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_834a551af8c3d8d2e83574943c95dc09dd38bc09/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/boixel/AndroidStudioProjects/projet_android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1b85745453f8ea704f65797e47aa2f71676b7d7d">
+        <dex dex="/Users/boixel/AndroidStudioProjects/projet_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4ad9413dc52bddd6e1808562db69e9ec60e008c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/boixel/AndroidStudioProjects/projet_android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/boixel/AndroidStudioProjects/projet_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_044e2f0b518c9a7ca60c7e97408f90cbf1816851/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/boixel/AndroidStudioProjects/ProjetAMIO/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da688a871f268b8a16587958438c1f8fac6300cd">
+        <dex dex="/Users/boixel/AndroidStudioProjects/ProjetAMIO/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_326caf9e3336a29771a98a75ba8d93b47167c252/classes.dex" />
+    </item>
+
+</items>
